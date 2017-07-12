@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AmazonSuiteTest">
+  <test name="AmazonLogInTest">
+    <classes>
+     <!--  <class name="Test.AmazonSearchTest"/> -->
+      <class name="Test.AmazonLogInTest"/>
+      <class name="Test.GoToLogInTest"/>
+    </classes>
+    
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
